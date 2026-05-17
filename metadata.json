@@ -1,0 +1,6 @@
+{
+  "name": "The Smiths Restaurant",
+  "description": "Modern, premium restaurant website for The Smiths.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
