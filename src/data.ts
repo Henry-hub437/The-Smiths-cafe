@@ -92,11 +92,11 @@ export const TESTIMONIALS = [
 ];
 
 export const FALLBACK_IMAGES = {
-  storefront: "https://storage.googleapis.com/aistudio-attachments/c6559bc8-8a58-45b4-bc97-f584f9deeb83/Oig2.jpeg",
-  interior: "https://storage.googleapis.com/aistudio-attachments/6f17e3be-8f3e-4b68-8094-1ef5bc920fbb/Oig1.jpeg"
+  storefront: "https://i.ibb.co/9kn5XMVs/Screenshot-20260516-202800-Google.jpg",
+  interior: "https://i.ibb.co/hJT5VJJM/Screenshot-20260516-202811-Google.jpg"
 };
 
 export const IMAGES = {
-  storefront: "https://storage.googleapis.com/aistudio-attachments/c6559bc8-8a58-45b4-bc97-f584f9deeb83/Oig2.jpeg",
-  interior: "https://storage.googleapis.com/aistudio-attachments/6f17e3be-8f3e-4b68-8094-1ef5bc920fbb/Oig1.jpeg",
+  storefront: "https://i.ibb.co/9kn5XMVs/Screenshot-20260516-202800-Google.jpg",
+  interior: "https://i.ibb.co/hJT5VJJM/Screenshot-20260516-202811-Google.jpg",
 };
